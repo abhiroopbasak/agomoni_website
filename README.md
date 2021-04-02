@@ -10,5 +10,5 @@ Ensuring safe and secure login for users at the same time ensuring data protecti
 ### Use
 
 Visit [agomoni.in](agomoni.in)
- ![alt text](images/p1.png)
+ ![alt text](images/p1.png = 100*100)
 
