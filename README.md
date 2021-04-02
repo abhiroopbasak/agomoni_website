@@ -10,5 +10,21 @@ Ensuring safe and secure login for users at the same time ensuring data protecti
 ### Use
 
 Visit [agomoni.in](agomoni.in)
+
  ![alt text](images/p1.png)
+ 
+Login and Register into the portal completely annonymous and secure. 
+ 
+  ![alt text](images/p2.png)
+  
+The dashboard section enables users to post annonymous content in the area and ensure security of users at the same time enabling discussions on crucial topics
+
+  ![alt text](images/p3.png)
+  
+ Often it is important to use professional help to ensure good mental health practises. The platform also connects users to mental health organizations on a digital level.
+ 
+ ![alt text](images/p3.png)
+ 
+ 
+ Drop in suggestions at [officialagomoni@gmail.com](officialagomoni@gmail.com)
 
