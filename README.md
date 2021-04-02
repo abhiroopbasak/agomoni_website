@@ -1,6 +1,6 @@
 # Agomoni
 
-## Started as an initiative to ensure mental health awareness and wellbeing of teenagers specially during dificult times such as COVID
+### Started as an initiative to ensure mental health awareness and wellbeing of teenagers specially during dificult times such as COVID
 
 ## Find move to agomoni.in for more details
 
